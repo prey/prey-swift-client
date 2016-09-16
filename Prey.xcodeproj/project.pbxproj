@@ -21,6 +21,7 @@
 		3B38BA8F1D22C03D00B6799B /* WebVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B38BA8E1D22C03D00B6799B /* WebVC.swift */; };
 		3B38BA911D23059900B6799B /* PreyTourWeb in Resources */ = {isa = PBXBuildFile; fileRef = 3B38BA901D23059900B6799B /* PreyTourWeb */; };
 		3B38BA931D231B1C00B6799B /* Detach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B38BA921D231B1C00B6799B /* Detach.swift */; };
+		3B3ED4A91D8C446D00E1A98B /* Ping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3ED4A81D8C446D00E1A98B /* Ping.swift */; };
 		3B40A9051CD8FC8400BF98F6 /* PreyNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B40A9041CD8FC8400BF98F6 /* PreyNotification.swift */; };
 		3B41BDA71D05FEFA003DF0CE /* DeviceAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B41BDA61D05FEFA003DF0CE /* DeviceAuth.swift */; };
 		3B41BDAD1D05FF9F003DF0CE /* GeofenceZones+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B41BDAB1D05FF9F003DF0CE /* GeofenceZones+CoreDataProperties.swift */; };
@@ -120,6 +121,7 @@
 		3B38BA8E1D22C03D00B6799B /* WebVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WebVC.swift; path = Classes/WebVC.swift; sourceTree = "<group>"; };
 		3B38BA901D23059900B6799B /* PreyTourWeb */ = {isa = PBXFileReference; lastKnownFileType = folder; path = PreyTourWeb; sourceTree = "<group>"; };
 		3B38BA921D231B1C00B6799B /* Detach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Detach.swift; path = Classes/Detach.swift; sourceTree = "<group>"; };
+		3B3ED4A81D8C446D00E1A98B /* Ping.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Ping.swift; path = Classes/Ping.swift; sourceTree = "<group>"; };
 		3B40A9041CD8FC8400BF98F6 /* PreyNotification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PreyNotification.swift; path = Classes/PreyNotification.swift; sourceTree = "<group>"; };
 		3B41BDA61D05FEFA003DF0CE /* DeviceAuth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DeviceAuth.swift; path = Classes/DeviceAuth.swift; sourceTree = "<group>"; };
 		3B41BDAB1D05FF9F003DF0CE /* GeofenceZones+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "GeofenceZones+CoreDataProperties.swift"; path = "Classes/GeofenceZones+CoreDataProperties.swift"; sourceTree = "<group>"; };
@@ -383,6 +385,7 @@
 				3B9DDC991CDBBF030052A21D /* PreyModule.swift */,
 				3B42A2681D25A9EA002848C0 /* PreyProtocol.swift */,
 				3B9DDC951CDB891C0052A21D /* PreyAction.swift */,
+				3B3ED4A81D8C446D00E1A98B /* Ping.swift */,
 				3B9DDC971CDB9CD70052A21D /* Location.swift */,
 				3B4F679E1CEA061E00F58FAD /* Alarm.swift */,
 				3B2445F81D2466CD005DF09C /* Alert.swift */,
@@ -611,6 +614,7 @@
 				3B047EB01D400F01008B2D58 /* PreyOnboarding.swift in Sources */,
 				3B41BDA71D05FEFA003DF0CE /* DeviceAuth.swift in Sources */,
 				3B67A01C1D381A8A0028255E /* PreyStoreManager.swift in Sources */,
+				3B3ED4A91D8C446D00E1A98B /* Ping.swift in Sources */,
 				3B8E57DA1A2E7B530027179E /* AppDelegate.swift in Sources */,
 				3B38BA8F1D22C03D00B6799B /* WebVC.swift in Sources */,
 				3B4F679F1CEA061E00F58FAD /* Alarm.swift in Sources */,
